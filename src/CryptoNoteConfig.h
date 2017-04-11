@@ -78,7 +78,7 @@ const char     GENESIS_COINBASE_TX_HEX[]                     = "010101ff0001a1f1
 
 const uint8_t  CURRENT_TRANSACTION_VERSION                   =  1;
 const uint8_t  BLOCK_MAJOR_VERSION_1                         =  1;
-const uint8_t  BLOCK_MINOR_VERSION_0                         =  0a;
+const uint8_t  BLOCK_MINOR_VERSION_0                         =  0;
 
 const size_t   BLOCKS_IDS_SYNCHRONIZING_DEFAULT_COUNT        =  10000;  //by default, blocks ids count in synchronizing
 const size_t   BLOCKS_SYNCHRONIZING_DEFAULT_COUNT            =  200;    //by default, blocks count in blocks downloading
